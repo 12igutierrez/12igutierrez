@@ -1,4 +1,4 @@
-![12igutierrez](https://github.com/user-attachments/assets/7b57d5bb-bc00-4540-9f55-f01a3bf9c9b8)
+![12igutierrez](https://github.com/user-attachments/assets/3afb8c20-c75b-409a-bae1-9dfa75aaa7dc)
 # ¡Hola! 👋 Soy Íñigo 
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
