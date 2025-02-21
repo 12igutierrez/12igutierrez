@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Íñigo 
-Desarrollador web apasionado por la tecnología.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-- 💻 Trabajo con **HTML, CSS, JavaScript y React**
-- 🚀 Me encanta aprender cosas nuevas
+- 💻 Trabajo con **Java☕, MySQL🗄️, HTML & CSS🎨**
+- 🚀 Con ganas de aprender más y mejorar mis habilidades
 - 📫 Contáctame en [LinkedIn](https://linkedin.com/in/tu-perfil)
 
-![Mi GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=dark)
+![Mi GitHub Stats](https://github-readme-stats.vercel.app/api?username=12igutierrez3&show_icons=true&theme=dark)
