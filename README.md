@@ -1,4 +1,5 @@
-![1](https://github.com/user-attachments/assets/47f47ff1-2a6d-4139-8b59-cea0353a0622)
+![1](https://github.com/user-attachments/assets/d303034f-4ae7-410e-890c-e93cbb146fec)
+
 # ¡Hola! 👋 Soy Íñigo 
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
