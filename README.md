@@ -6,4 +6,4 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 📫 Contáctame en [LinkedIn](https://linkedin.com/in/tu-perfil)
 
 <!-- ![Mi GitHub Stats](https://github-readme-stats.vercel.app/api?username=12igutierrez&show_icons=true&theme=dark) -->
-![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt2azAyMWtpMGEyYjZscGlmenRoenIxcWFyZGk3NTNvNml0dm90ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/29pTScZHpOvnqnlblQ/giphy.gif)
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt2azAyMWtpMGEyYjZscGlmenRoenIxcWFyZGk3NTNvNml0dm90ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/29pTScZHpOvnqnlblQ/giphy.gif" width="400px">
